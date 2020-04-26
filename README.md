@@ -1,5 +1,5 @@
 # Python implementation of Koth Service
-## Used in Koth boxes on https://tryhackme.com
+## Used for Koth boxes on https://tryhackme.com
 
 <h3>Usage:</h3>
 <ol>
