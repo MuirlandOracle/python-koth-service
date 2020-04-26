@@ -1,5 +1,6 @@
 pip3 install -r requirements.txt
-cp koth.py /usr/bin
-cp koth.service /etc/systemd/system
+touch /root/king.txt
+mv koth.py /usr/bin
+mv koth.service /etc/systemd/system
 systemctl start koth
 systemctl enable koth
