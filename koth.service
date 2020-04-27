@@ -7,7 +7,7 @@ Type=simple
 User=root
 Group=root
 WorkingDirectory=/root
-ExecStart=/bin/bash -c "FLASK_APP=/usr/bin/koth.py flask run --host=0.0.0.0 --port=9999"
+ExecStart=/usr/bin/koth
 Restart=always
 RestartSec=5
 
