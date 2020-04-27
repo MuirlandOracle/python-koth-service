@@ -1,6 +1,6 @@
 apt install zip
 touch /root/king.txt
-unzip compressed.zip
+unzip compiled.zip
 mv koth /usr/bin
 chmod +x /usr/bin/koth
 mv koth.service /etc/systemd/system
